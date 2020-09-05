@@ -1,1 +1,6 @@
 
+two major component must need for animation...
+
+1. flower.png the main image
+2. pen.png for moving pen
+
